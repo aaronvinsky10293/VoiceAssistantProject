@@ -1,0 +1,101 @@
+Customer_ID,First_Name,Last_Name,Email,Phone_Number,Section,Block,Lot,Street_Address,City,Zip_Code,Case_Status,Expected_Savings
+55,Tina,Kirby,zsmith@example.com,759-356-6507x2018,72,161,780,446 Bethany Branch,East Aaron,93804,Pending,2548.18
+3,Amy,Martinez,gtrujillo@example.org,001-930-291-0360x73490,53,246,901,41546 Terri Key,Kellystad,14734,Closed,2808.66
+4940,Lauren,Dean,fhoffman@example.net,(892)930-7695,72,177,686,676 Hannah Crossing,Port Kellyton,96184,Pending,3247.41
+737,Christopher,Hunt,tinaellison@example.com,324.720.0747x1190,66,192,659,831 Brown Drive Apt. 676,Brianaburgh,38942,Approved,3003.65
+8574539,John,Schmidt,mho@example.org,(404)579-9299x74891,60,457,862,9001 Brown Oval,West Joshua,25630,Opened,3404.93
+7,Tiffany,Gonzalez,hbaker@example.org,+1-324-928-4362x9259,28,492,786,75998 Tony Summit Suite 481,Laraberg,93231,Closed,2186.69
+4,Heidi,Martinez,jgross@example.com,3325406579,77,104,745,164 Ramos Mills,New Lindseymouth,07928,Opened,3028.52
+9083890,Jeremy,Jones,cunderwood@example.org,(394)260-4279,82,251,997,2843 Jessica Viaduct,West Melissaland,33375,Approved,2335.87
+77348655,Ryan,Martinez,dunnjorge@example.org,+1-758-528-7557x29293,47,439,703,98176 Cole Flat,Waltonbury,99721,Pending,3265.84
+3017,Shane,Nolan,tmendoza@example.net,+1-738-466-6218,24,396,524,279 Dustin Camp Suite 031,Wallaceburgh,16883,Opened,3208.52
+10884,Brandon,Todd,tonygray@example.net,954-375-6309x010,93,433,894,0281 Bryant Landing,North Michaelland,51888,Opened,2900.42
+26098,Jon,Moore,brian56@example.net,995-857-4659x9474,69,217,726,17479 Hurst Highway,Julieberg,84141,Approved,2290.58
+42636,John,Cunningham,jonesjamie@example.com,(527)623-7708x08693,33,285,569,420 Bell Pines Apt. 834,South Timothy,23881,Pending,3003.52
+618101,Aaron,Griffith,bushstephen@example.com,422.779.1245,89,404,738,713 Timothy Haven Apt. 352,Elizabethport,06438,Closed,2867.83
+8,Tara,Wilson,mortonchristopher@example.net,001-378-670-0981x3220,85,222,784,205 Yang Ranch,Andersonview,97533,Pending,3115.41
+6374314,Nicholas,Mitchell,hhooper@example.org,710-316-9060x115,17,358,623,548 Ryan Crossing Suite 893,Cooperstad,13432,Approved,3328.35
+2,Breanna,Baker,amber58@example.com,609-864-1207x914,100,195,704,69751 Jones Place Suite 426,Duanefurt,83325,Approved,3780.97
+4049,Frederick,Sims,adam27@example.com,(438)838-3181,36,401,566,60786 Suzanne Well Suite 688,East Jacqueline,73096,Pending,2812.09
+5,Christina,Coffey,bduncan@example.com,(616)427-5125,57,430,617,10494 Jessica Isle,Danielleland,60738,Closed,2562.21
+23,Shane,Walsh,elizabeththompson@example.com,+1-696-753-1018x0821,47,344,957,18105 White Mission Suite 925,Christopherberg,33288,Pending,3164.64
+867,Megan,Richard,scott54@example.net,(503)422-2518,27,401,544,560 Nicole Land,Robertton,69283,Closed,2576.65
+9331001,Grace,Hernandez,kristina36@example.org,(827)417-4779,45,175,808,98845 Little Green Apt. 781,Matthewport,93186,Approved,2966.85
+777,Michael,Fields,iwallace@example.com,8642159736,65,280,754,37266 Davis Way,Seanstad,45990,Pending,2850.17
+94,Justin,Palmer,swalters@example.com,552-418-2719,24,303,665,797 Christy Coves Apt. 139,Grantside,75037,Closed,2298.92
+0,Michael,Sullivan,sthornton@example.org,210-622-5078x0833,28,431,906,6489 Henderson Port,Erikaborough,68765,Pending,3277.28
+60076,April,Yoder,mcleandavid@example.com,487-218-1930x487,57,375,589,057 Gray Way,Jenniferburgh,95531,Opened,2606.59
+512117,Sydney,Gomez,icooper@example.org,554.796.2833x4917,82,227,814,31979 Keith Glen,Lake Christina,20534,Pending,2833.86
+1,Jeffrey,Cook,tjones@example.net,001-667-757-4652x02968,84,210,915,562 Martin Fields,West Sean,75703,Opened,2791.89
+95641268,Nicole,Kelly,rhorton@example.com,405-402-5487,93,393,925,51367 Russell Plains,New Dawn,99878,Opened,3619.09
+172146,Teresa,Rivera,tammy39@example.net,2999259948,61,170,886,150 Patrick Wells Apt. 959,Port Richard,70184,Opened,3102.72
+93,Jeremy,Curry,kaylasawyer@example.com,+1-415-808-7110,63,110,907,1065 Little Dale Apt. 511,Whitefurt,82332,Pending,3005.93
+194,Ryan,Adams,christinebaker@example.com,570.619.5607x299,50,125,646,99792 Melissa Run Apt. 869,Sabrinaburgh,10026,Opened,3430.1
+3758146,Brittany,Oliver,donaldwilson@example.net,(232)546-3959x64262,5,386,901,8376 Ross Crest,Suzanneborough,38021,Closed,2939.0
+26387689,Antonio,Baker,mbrown@example.com,730.890.3694,41,376,559,6943 Paul Lodge Apt. 805,North Kaylamouth,63335,Approved,3997.06
+1332630,Christopher,Nelson,zhall@example.org,(522)830-3625,9,333,917,203 Michele Locks,Lake Carlosstad,22305,Opened,3617.08
+3319,Lori,Klein,dgray@example.net,487.344.6021,53,464,995,5505 Sparks Light Suite 018,South Sarahfort,03746,Approved,2857.43
+50633,Adam,Frazier,katie59@example.org,8238702703,31,208,877,7972 Phillips Unions,West Adam,30748,Opened,3056.75
+78160711,Lisa,Barnes,adamsjessica@example.com,+1-702-906-1676,1,260,565,35778 Mata Centers Apt. 541,South Markmouth,47684,Pending,3822.02
+9912492,Jasmine,Howard,dserrano@example.net,754.516.9785x72275,12,277,697,09585 John Hollow,Henryburgh,51950,Opened,2987.96
+5226962,Ryan,Walter,hoganjoel@example.net,414-201-2897x6517,46,136,707,385 Martin Crest,Bentleystad,69531,Pending,3195.11
+59914,Richard,Fuller,lopezbrandon@example.org,617-823-7937x619,34,102,895,29388 Graves Garden,Port Laura,42812,Approved,2294.44
+91667,Miranda,Davis,gomezbrenda@example.com,612-903-9246x6865,45,489,761,4359 Sanders Landing Apt. 662,Smithberg,77509,Opened,2536.94
+63,Kelsey,Alexander,nmays@example.org,587.566.7174x6981,14,206,855,66453 Ellis Isle Suite 443,Port Austinside,17649,Pending,2621.04
+62357,Heather,Johnson,caldwellrachel@example.org,(329)624-3412,59,388,745,10530 Anderson Mountains Apt. 117,South Glenn,56397,Opened,2909.4
+1497454,Andrea,Monroe,ubrewer@example.com,(350)535-0335,22,173,685,30111 Torres Branch Apt. 429,Port Douglasberg,91694,Opened,3152.17
+8988,Chelsea,Barrett,stacey73@example.com,997-272-0503x987,36,169,906,1413 Mcneil Squares Suite 658,Pettymouth,98179,Opened,2892.91
+43,David,Day,sandra66@example.org,9112442054,8,220,532,30829 Davis Unions Suite 385,Port David,14815,Closed,1617.56
+9457,Richard,Curry,robert83@example.net,651.332.3317,84,374,504,764 Clark Center,Phillipburgh,67005,Opened,3389.92
+71939,Jennifer,Bell,robinsonheidi@example.com,384-832-0404,2,366,501,64828 Nguyen Shoal Apt. 081,Lake Erin,17630,Closed,2375.06
+106,Lee,Holloway,yknight@example.org,001-845-217-7599,94,246,959,51910 Walker Freeway Apt. 402,West Marvinport,13522,Opened,3103.43
+6860941,David,Hayes,corey73@example.net,645.399.0100,84,168,631,70393 Jonathan Mission Apt. 543,Micheleshire,30872,Approved,3156.96
+40558834,Jenna,Hanson,robertsonbrian@example.net,416.625.0225x935,41,485,690,63958 Cuevas Springs Apt. 716,West Jodishire,27713,Approved,3127.41
+367665120,Melissa,Herring,uhays@example.net,(779)777-4346,63,345,906,361 Perry Points,Ryanview,78603,Opened,2463.8
+90,Stephanie,Burch,daniel34@example.net,001-843-736-0649x3316,93,425,923,0211 Martinez Mall Apt. 108,Dylanfurt,40267,Pending,2755.43
+73899,Jason,Drake,reyesraven@example.net,536-934-9420,37,430,521,21939 Garcia Bridge,South Thomas,31993,Approved,3177.44
+66098151,Jonathan,Valenzuela,johnross@example.com,(494)912-6734x166,77,277,923,234 Chase Landing,Starktown,57444,Closed,2500.08
+7729420,Nicole,Bautista,coxlindsay@example.org,2959178704,21,270,891,82293 Dylan Alley,North Karen,61119,Opened,2142.5
+2053,Benjamin,Green,ikelley@example.com,739.967.3733,38,340,508,92850 Russell Club,West Sandraburgh,96672,Pending,3783.59
+134942165,Robert,Castillo,morenostacy@example.net,001-322-971-6852,12,428,668,230 Young Ridges Apt. 278,East Katherineburgh,20951,Opened,2926.71
+22771703,Jillian,Gallegos,brooksann@example.net,+1-510-532-9421,29,337,758,099 Paul Cliffs Suite 411,Kimberlyhaven,20084,Pending,2695.19
+97,Philip,Phillips,andrewtorres@example.net,+1-285-207-8889x12361,95,124,707,13831 Stephen Lodge,Port Ronnieview,39077,Opened,3439.59
+4747679,Molly,Davis,ewingeric@example.org,(667)312-9845,73,338,990,445 Amy Parks Suite 741,Lake Ryan,19523,Approved,3223.54
+8411746,Derek,Diaz,timothymueller@example.net,714-780-1919x940,61,197,606,626 William Plains Apt. 236,Brianfort,54582,Approved,3427.62
+17,David,Daniels,millermatthew@example.net,001-803-655-2998,14,118,509,257 Jessica Crossroad,Virginiabury,84629,Approved,3239.25
+62855,Michael,Brown,hillandrew@example.org,(908)718-4589,38,497,843,0827 Pratt Center,Weaverville,27447,Closed,3233.83
+481552411,Garrett,Ruiz,regina10@example.com,+1-775-635-5627x562,78,340,826,575 Robinson Roads,Port Patriciaberg,13962,Approved,2552.75
+858967832,Denise,Chandler,shawn50@example.com,001-824-210-9313x59753,98,147,727,063 Hendrix Summit,West Tracy,26713,Approved,2500.19
+360559,Mark,Sparks,lwarren@example.org,+1-636-200-2078x1118,5,244,816,762 Myers Islands Suite 355,Lake Jamesmouth,60219,Opened,2891.95
+251257390,Brenda,Santiago,michaeladams@example.net,947.328.8850x5031,15,445,706,3208 Susan Spurs,Cooleystad,12006,Opened,2419.16
+131486690,Gregory,Brown,maria21@example.com,001-674-276-5795x626,54,352,883,844 Marcus Ford,Carrberg,11027,Pending,3645.93
+54307,Wendy,Bryan,brownwayne@example.org,898-458-1486,4,460,829,7725 Kelly Pike Apt. 443,East Ryan,42036,Opened,2914.09
+159,Carolyn,Davis,brownkevin@example.org,(368)247-2884x36388,53,342,698,85872 Smith Crescent,South Amyberg,45440,Pending,3011.94
+50,Steven,Taylor,rking@example.org,+1-256-347-1262x7556,82,103,979,746 Lopez Rest,South Daniel,74151,Closed,3528.55
+1687727,Jerry,Coleman,richardjackson@example.com,8668983943,32,210,666,133 Wilcox Run Suite 905,South Melinda,39486,Closed,3042.88
+2153258,Lisa,Russo,adrian21@example.net,(214)231-7343x52964,6,329,585,65952 Roy Islands,New James,96366,Closed,2730.97
+20327,Patricia,Carter,katiebradley@example.net,716-456-3851,48,157,684,4786 Jose Estates,Nashburgh,44617,Closed,3268.99
+8963851,Julie,Rodriguez,stephanie49@example.com,782.582.6664,24,460,898,49883 Alejandra Crossroad Apt. 819,Port Derrickshire,09074,Pending,3351.19
+211688944,Amy,Wagner,qmurphy@example.org,713.316.9360x10690,93,484,958,152 Roy Unions Apt. 717,Lake Eugene,06224,Opened,2664.2
+833058491,Andrew,Wright,henrythompson@example.net,001-518-427-4549x6161,15,346,917,2360 Johnson Way Suite 843,Michaelchester,44700,Closed,2596.08
+96068,Matthew,Torres,hudsoncaroline@example.org,548-492-0065,99,393,741,3266 Klein Centers,Fieldsshire,46721,Opened,2439.46
+41833000,Donald,Torres,osbornealice@example.org,+1-751-983-5387x569,26,370,883,2989 Mclaughlin Tunnel,Amandabury,71155,Opened,3523.89
+89,William,Cruz,samanthanguyen@example.org,+1-469-602-1593,40,180,781,7823 Stephanie Bypass Suite 976,Lake Ryanview,78912,Pending,2563.21
+47,Monique,Moore,carteralexander@example.net,719.961.7171x239,25,272,865,115 Horn Meadow,Lake Aaron,50522,Approved,3451.44
+1658969,Carla,Clayton,robertle@example.org,252.671.0708,85,236,521,980 Kenneth Forge Suite 095,Greenville,77688,Approved,3393.81
+5803,Jose,Whitaker,briansullivan@example.org,293-596-7633x1386,62,314,908,454 Regina Terrace,North Davidshire,04539,Pending,3398.45
+6,Laura,Wilkerson,aliciajuarez@example.com,577-650-4397x52509,94,205,980,1085 Guzman Harbors,Beckchester,02739,Approved,2922.04
+534140,Jonathan,Russell,amandacampbell@example.net,+1-372-526-4127x37712,75,222,835,350 Valerie Passage,New Richardport,79134,Opened,2704.05
+684,Nancy,Bender,christy75@example.net,412.445.1717,98,244,939,794 Chad Manor,Port Penny,00933,Opened,2623.57
+3381226,Dylan,Gibson,howardgary@example.com,413-454-4065x38295,83,266,601,04032 Connie Creek Apt. 260,Myerschester,94981,Closed,3509.83
+9445978,Kevin,Jones,rebeccathomas@example.org,3004956525,100,172,765,449 Jason Landing Suite 463,Andersonville,52117,Approved,3183.79
+33154403,Leah,Davis,wellssteven@example.com,+1-366-498-6201x26651,73,269,810,3508 Turner Shore,North Drewton,56402,Closed,2994.95
+785208,Lauren,Norton,hilljoshua@example.com,(565)819-8570x725,44,393,763,286 Kevin Port,New Kevinview,85456,Pending,3675.17
+934114,Timothy,Mckee,watkinselizabeth@example.net,(669)615-0874x7226,5,371,833,1887 Bush Walks Suite 679,West Aaronshire,21823,Pending,2122.12
+7231406,Ronald,Jackson,jbentley@example.org,(639)763-9088,76,102,985,465 David Cliffs Suite 595,Jeanneview,27354,Closed,2966.92
+59,Christopher,Thomas,kelly76@example.com,331-255-1303x5069,94,183,952,765 Grant Station Apt. 052,Johnport,32863,Pending,2691.15
+22456,Michelle,Buchanan,nicole74@example.com,905-340-8162x044,39,204,913,1878 Garcia Junctions Suite 785,Lake Tinafurt,57601,Approved,3640.68
+6080655,Heather,Castaneda,campossteve@example.com,+1-539-519-7046,63,188,800,9870 Cunningham Plains Suite 219,Port Theresamouth,66120,Opened,2655.07
+5161888,Christopher,Wolfe,paulahughes@example.org,242.425.9726x0915,5,277,578,641 Jordan Orchard Apt. 141,Nicolefort,14446,Approved,2833.16
+797819134,Heidi,Burke,edwardsmelissa@example.com,8757662178,56,279,971,235 Jackson Roads Suite 958,Amandaberg,01701,Closed,3899.94
+70025708,Tracy,Cole,sara35@example.org,599.405.7391x373,67,358,937,0755 Morris Hollow Suite 627,Kendraville,82531,Closed,3600.25
